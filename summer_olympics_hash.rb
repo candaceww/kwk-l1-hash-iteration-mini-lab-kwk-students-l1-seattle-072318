@@ -15,7 +15,7 @@
 # end 
 # puts create_olympics_hash
 
-create_olympics_hash= {:Sydney
+create_olympics_hash= {:"Sydney" => 2000
 
 
 # def add_a_key_value_pair
